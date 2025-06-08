@@ -127,7 +127,7 @@ const NewHomePageContents = () => {
                     <div className="tp-hero-call-inner-2">
                       <p>Need help?</p>
                       <span>
-                        <a href="tel:5550111">(808) 555-0111</a>
+                        <a href="tel:5550111">(808)2590 926</a>
                       </span>
                     </div>
                   </div>
