@@ -9,9 +9,9 @@ const LoginNav = () => {
             <nav className="navbar navbar-expand-lg navbar-light">
               <a className="navbar-brand" href="/">
                 <img
-                  src="/assets/images/elite-trust-logo-3.png"
-                  className="logo"
-                  alt="logo"
+                  src="/new-assets/img/logo/WhatsApp Image 1404-03-16 at 13.52.46.jpeg"
+                  className="logo logo-img"
+                  alt="logo "
                 />
               </a>
               <button

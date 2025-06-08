@@ -34,7 +34,11 @@ const NewMobileNav = () => {
           <div className="offcanvas__top mb-50 d-flex justify-content-between align-items-center">
             <div className="offcanvas__logo logo">
               <a href="/">
-                <img src="/new-assets/img/logo/logo-black.png" alt="logo" />
+                <img
+                  src="/new-assets/img/logo/WhatsApp Image 1404-03-16 at 13.52.46.jpeg"
+                  className="logo-img"
+                  alt="logo"
+                />
               </a>
             </div>
           </div>
@@ -69,18 +73,27 @@ const NewMobileNav = () => {
             </div>
           </div>
           <div className="offcanvas__social">
-            <a className="icon facebook" href="#">
-              <i className="fab fa-facebook-f" />
-            </a>
-            <a className="icon twitter" href="#">
-              <i className="fab fa-twitter" />
-            </a>
-            <a className="icon youtube" href="#">
-              <i className="fab fa-youtube" />
-            </a>
-            <a className="icon linkedin" href="#">
-              <i className="fab fa-linkedin" />
-            </a>
+            <div
+              className="tp-hero-button-wrapper-2 d-flex flex-wrap wow fadeInUp"
+              data-wow-duration="1s"
+              data-wow-delay=".7s"
+            >
+              <div className="tp-hero-btn mr-0">
+                <a className="tp-btn mr-10" href="/sign-up">
+                  Get Started
+                  <span>
+                    <i className="fa-regular fa-plus" />
+                  </span>
+                </a>
+              </div>
+              <div className="tp-hero-call-2 d-flex align-items-center">
+                <div className="tp-hero-call-inner-2">
+                  <span>
+                    <a href="/login">Login</a>
+                  </span>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

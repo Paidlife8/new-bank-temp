@@ -110,7 +110,7 @@ const SignUpContents = () => {
         setRegistering(true);
         console.log("Form Data:", formData);
         const response = await axios.post(
-          "https://firstbank-q907.onrender.com/user/register",
+          "https://wescredit-server.onrender.com/user/register",
           formData
         );
         console.log(response, "response");

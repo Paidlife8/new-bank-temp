@@ -194,7 +194,7 @@ const DashHeader = () => {
                   <a href="/dashboard">
                     <img
                       // src="/dash-assets/images/elite-trust-logo-3.png"
-                      src="https://res.cloudinary.com/dcbbywfud/image/upload/v1722950816/logo-elite_yonrnb.png"
+                      src="/new-assets/img/logo/WhatsApp Image 1404-03-16 at 13.52.46.jpeg"
                       alt="logo"
                     />
                   </a>
