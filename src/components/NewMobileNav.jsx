@@ -60,7 +60,7 @@ const NewMobileNav = () => {
                 <i className="fa-solid fa-envelope" />
               </div>
               <div className="offcanvas__contact-content-content">
-                <a href="mailto:needhelp@company.com"> Needhelp@company.com</a>
+                <a href="mailto:needhelp@company.com"> Needhelp@Wescredit.us</a>
               </div>
             </div>
             <div className="offcanvas__contact-content d-flex">
