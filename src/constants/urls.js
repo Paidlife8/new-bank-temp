@@ -1,1 +1,1 @@
-export const baseUrl = "https://firstbank-q907.onrender.com";
+export const baseUrl = "https://wescredit-server.onrender.com";

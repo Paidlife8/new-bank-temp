@@ -12,7 +12,11 @@ const NewNav = () => {
             <div className="col-xl-3 col-6">
               <div className="tp-header-logo-2 p-relative">
                 <a href="/">
-                  <img src="/new-assets/img/logo/logo-black.png" alt />
+                  <img
+                    src="/new-assets/img/logo/WhatsApp Image 1404-03-16 at 13.52.46.jpeg"
+                    className="logo-img"
+                    alt
+                  />
                 </a>
               </div>
             </div>
