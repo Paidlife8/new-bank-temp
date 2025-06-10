@@ -60,7 +60,7 @@ const NewMobileNav = () => {
                 <i className="fa-solid fa-envelope" />
               </div>
               <div className="offcanvas__contact-content-content">
-                <a href="mailto:needhelp@company.com"> Needhelp@company.com</a>
+                <a href="mailto:needhelp@company.com"> Needhelp@Wescredit.us</a>
               </div>
             </div>
             <div className="offcanvas__contact-content d-flex">
@@ -68,7 +68,7 @@ const NewMobileNav = () => {
                 <i className="fa-solid fa-phone" />
               </div>
               <div className="offcanvas__contact-content-content">
-                <a href="tel:01310-069824"> +92 666 888 0000</a>
+                <a href="tel:01310-069824"> +1 (513)259 0926</a>
               </div>
             </div>
           </div>

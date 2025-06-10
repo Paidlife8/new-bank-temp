@@ -489,7 +489,7 @@ const HelpCenterContents = () => {
                           aria-expanded="false"
                           aria-controls="collapseLeftFive"
                         >
-                          How does First Credit Choice protect your money?
+                          How does Wes Credit protect your money?
                         </button>
                       </h6>
                       <div
