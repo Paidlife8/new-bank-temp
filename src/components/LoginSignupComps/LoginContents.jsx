@@ -151,3 +151,8 @@ const LoginContents = () => {
 };
 
 export default LoginContents;
+@media screen and (max-width: 991px) {
+  .logo-img {
+    width: 170px !important;
+  }
+}
