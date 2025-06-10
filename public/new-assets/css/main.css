@@ -13571,3 +13571,8 @@ blockquote::after {
 .logo-img {
   width: 60% !important;
 }
+@media screen and (max-width: 991px) {
+  .logo-img {
+    width: 170px !important;
+  }
+}
