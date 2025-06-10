@@ -458,5 +458,9 @@ const SignUpContents = () => {
     </div>
   );
 };
-
+@media screen and (max-width: 991px) {
+  .logo-img {
+    width: 170px !important;
+  }
+}
 export default SignUpContents;
