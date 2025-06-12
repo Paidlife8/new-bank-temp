@@ -28,7 +28,7 @@ const NewHomePageContents = () => {
                     data-wow-duration="1s"
                     data-wow-delay=".5s"
                   >
-                    Where your <br /> financial dreams <br /> become reality
+                    Start<br /> Banking <br /> With Confidence
                   </h2>
                   <p
                     className=" wow fadeInUp"
