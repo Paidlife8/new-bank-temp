@@ -135,7 +135,7 @@ const NewFooter = () => {
           <div className="row">
             <div className="col-md-12 col-lg-6">
               <div className="tp-footer-copyright-inner">
-                <p>© WesCredit 2025 | All Rights Reserved</p>
+                <p>© WesCredit 2026 | All Rights Reserved</p>
               </div>
             </div>
             <div className="col-md-12 col-lg-6">
