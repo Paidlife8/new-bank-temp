@@ -89,7 +89,7 @@ const HelpCenterContents = () => {
                               />
                             </div>
                             <a href="help-center-category.html">
-                              <h5>About First Credit Choice</h5>
+                              <h5>About Wes Credit Choice</h5>
                             </a>
                           </div>
                         </div>
@@ -280,7 +280,7 @@ const HelpCenterContents = () => {
                               />
                             </div>
                             <a href="help-center-category.html">
-                              <h5>First Credit Choice Cards</h5>
+                              <h5>Wes Credit Choice Cards</h5>
                             </a>
                           </div>
                         </div>
@@ -460,7 +460,7 @@ const HelpCenterContents = () => {
                           aria-expanded="false"
                           aria-controls="collapseLeftFour"
                         >
-                          How to use First Credit Choice?
+                          How to use Wes Credit Choice?
                         </button>
                       </h6>
                       <div
