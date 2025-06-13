@@ -21,7 +21,7 @@ const NewHomePageContents = () => {
                     data-wow-duration="1s"
                     data-wow-delay=".3s"
                   >
-                    Be Invest
+                    happy
                   </span>
                   <h2
                     className="tp-hero-title-2 wow fadeInUp"
