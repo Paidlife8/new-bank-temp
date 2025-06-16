@@ -20,6 +20,10 @@ export default function RootLayout({ children }) {
       <body style={{ background: "white" }}>
         <ReduxProvider>{children}</ReduxProvider>
         <ToastContainer />
+        <Script
+          src="//code.tidio.co/nopxzclkymoohmsu2eixiq2sf7fz2x6f.js"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   );
