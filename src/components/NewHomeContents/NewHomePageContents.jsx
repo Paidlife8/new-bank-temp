@@ -1808,7 +1808,7 @@ const NewHomePageContents = () => {
           <div className="row align-items-center justify-content-center">
             <div className="col-lg-6">
               <div className="tp-cta-wrapper-2 text-center">
-                <h3 className="tp-cta-title-2">Allthe</h3>
+                <h3 className="tp-cta-title-2">WesCredit</h3>
                 <p>
                   It is a long established fact that a reader will be distracted
                   by the <br /> readable content of a page when looking at its
@@ -1816,7 +1816,7 @@ const NewHomePageContents = () => {
                 </p>
                 <span>
                   Email:{" "}
-                  <a href="mailto:example@gmail.com">example@gmail.com</a>
+                  <a href="mailto:example@gmail.com">help@Wescredit.us</a>
                 </span>
                 <div className="tp-cta-email p-relative">
                   <input type="email" placeholder="Enter Your Email" />
