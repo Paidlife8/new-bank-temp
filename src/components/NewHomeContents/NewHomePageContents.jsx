@@ -21,7 +21,7 @@ const NewHomePageContents = () => {
                     data-wow-duration="1s"
                     data-wow-delay=".3s"
                   >
-                    Be Happy
+                    happy
                   </span>
                   <h2
                     className="tp-hero-title-2 wow fadeInUp"
@@ -215,7 +215,7 @@ const NewHomePageContents = () => {
             <div className="col-lg-6">
               <div className="tp-about-wrapper-2">
                 <div className="tp-about-title-wrapper">
-                  <span className="tp-section-title-pre">ABOUT US</span>
+                  <span className="tp-section-title-pre">PEACE OUT</span>
                   <h3 className="tp-section-title">
                     Elevating your payment experience
                   </h3>
