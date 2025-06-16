@@ -459,5 +459,5 @@ const SignUpContents = () => {
   );
 };
 
-}
+
 export default SignUpContents;
