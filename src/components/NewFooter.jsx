@@ -137,11 +137,11 @@ const NewFooter = () => {
             </div>
             <div className="col-md-12 col-lg-6">
               <div className="tp-footer-copyright-inner text-lg-end">
-                <a href="#">About us</a>
+                <a href="#">About</a>
                 <a href="#">Categories</a>
                 <a href="#">Services</a>
                 <a href="#">Blog</a>
-                <a href="#">Contact Us</a>
+                <a href="#">Contact</a>
               </div>
             </div>
           </div>
