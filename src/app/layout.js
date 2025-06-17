@@ -21,9 +21,21 @@ export default function RootLayout({ children }) {
         <ReduxProvider>{children}</ReduxProvider>
         <ToastContainer />
         <Script
-          src="//code.tidio.co/nopxzclkymoohmsu2eixiq2sf7fz2x6f.js"
-          strategy="afterInteractive"
-        />
+  strategy="afterInteractive"
+  dangerouslySetInnerHTML={{
+    __html: `
+      var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+      (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/685099d2a1bfba190de84cc0/1ittdho5f';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+      })();
+    `,
+  }}
+/>
       </body>
     </html>
   );
