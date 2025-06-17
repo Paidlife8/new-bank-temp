@@ -31,9 +31,7 @@ const NewFooter = () => {
                 </div>
                 <div className="tp-footer-widget-content">
                   <p>
-                    Payment processing is a critical component of any business
-                    that sells goods or se Payment processing is a critical
-                    component of any.
+                    WesCredit is built on values: trust, transparency, and technology. Since 2000, we’ve helped millions bank better — with human service and digital speed.
                   </p>
                   <div className="tp-footer-widget-social">
                     <a href="#">
@@ -79,29 +77,29 @@ const NewFooter = () => {
                 <div className="tp-footer-widget-content">
                   <div className="tp-footer-widget-item">
                     <h4 className="tp-footer-widget-item-title">
-                      <a href="blog-details.html">ished fact that a reader </a>
+                      <a href="blog-details.html">5 Ways to Build Credit Fast in 2025</a>
                     </h4>
                     <span>
-                      <i className="fa-regular fa-calendar-days" /> October 19,
-                      2023
+                      <i className="fa-regular fa-calendar-days" /> Febuary 19,
+                      2025
                     </span>
                   </div>
                   <div className="tp-footer-widget-item">
                     <h4 className="tp-footer-widget-item-title">
-                      <a href="blog-details.html">will distrol acted desig </a>
+                      <a href="blog-details.html">SME Banking Trends You Need to Know </a>
                     </h4>
                     <span>
-                      <i className="fa-regular fa-calendar-days" /> October 19,
-                      2023
+                      <i className="fa-regular fa-calendar-days" /> June 19,
+                      2025
                     </span>
                   </div>
                   <div className="tp-footer-widget-item">
                     <h4 className="tp-footer-widget-item-title">
-                      <a href="blog-details.html">will distrol acted desig </a>
+                      <a href="blog-details.html">Digital Banking Safety: Top 7 Tips </a>
                     </h4>
                     <span>
-                      <i className="fa-regular fa-calendar-days" /> October 19,
-                      2023
+                      <i className="fa-regular fa-calendar-days" /> May 25,
+                      2025
                     </span>
                   </div>
                 </div>
@@ -112,8 +110,7 @@ const NewFooter = () => {
                 <h3 className="tp-footer-widget-title">Newsletter</h3>
                 <div className="tp-footer-widget-content">
                   <p>
-                    It's important for businesses to carefully consider their
-                    pay.
+                    Read More Blogs [Subscribe to Newsletter]
                   </p>
                   <div className="tp-footer-content-email">
                     <input type="email" placeholder="Email Address" />
@@ -135,7 +132,7 @@ const NewFooter = () => {
           <div className="row">
             <div className="col-md-12 col-lg-6">
               <div className="tp-footer-copyright-inner">
-                <p>© WesCredit 2026 | All Rights Reserved</p>
+                <p>© WesCredit 2025 | All Rights Reserved</p>
               </div>
             </div>
             <div className="col-md-12 col-lg-6">
@@ -143,7 +140,7 @@ const NewFooter = () => {
                 <a href="#">About us</a>
                 <a href="#">Categories</a>
                 <a href="#">Services</a>
-                <a href="#">Blog Grid</a>
+                <a href="#">Blog</a>
                 <a href="#">Contact Us</a>
               </div>
             </div>
