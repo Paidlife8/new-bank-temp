@@ -35,7 +35,7 @@ const NewHomePageContents = () => {
                     data-wow-duration="1s"
                     data-wow-delay=".5s"
                   >
-                    WesCredit  has been a trusted financial partner for individuals and businesses for over 25 years.<br /> We are committed to offering transparent, innovative, and customer-first banking solutions. <br /> 
+                    Welcome to WesCredit, where your money meets innovation. <br />  Whether you’re saving, investing, or managing your finances — we’re here for you.<br /> 
                    
                   </p>
                 </div>
@@ -213,16 +213,13 @@ const NewHomePageContents = () => {
             <div className="col-lg-6">
               <div className="tp-about-wrapper-2">
                 <div className="tp-about-title-wrapper">
-                  <span className="tp-section-title-pre">PEACE OUT</span>
+                  <span className="tp-section-title-pre">ABOUT US</span>
                   <h3 className="tp-section-title">
-                    Elevating your payment experience
+                    Built on Trust. Driven by People.
                   </h3>
                 </div>
                 <p>
-                  Payment solutions enable businesses to accept payments Payment
-                  enable businesses to accept payments from ctly customers ctly
-                  securely. rom customers conveniently and securely Payment
-                  solutions enable inesses to{" "}
+                  WesCredit  has been a trusted financial partner for individuals and businesses for over 25 years. We are committed to offering transparent, innovative, and customer-first banking solutions.{" "}
                 </p>
                 <div className="tp-about-item-2 d-flex">
                   <div className="tp-about-item-2-inner d-flex">
