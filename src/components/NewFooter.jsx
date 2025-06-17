@@ -26,12 +26,12 @@ const NewFooter = () => {
                 <div className="tp-footer-logo mb-20">
                   <a href="index.html">
                     {" "}
-                    <img src="/new-assets/img/logo/logo.png" alt />
+                    <img src="/new-assets/img/hero/home-2/shape-3.png" alt />
                   </a>
                 </div>
                 <div className="tp-footer-widget-content">
                   <p>
-                    WesCredit is built on values: trust, transparency, and technology. Since 2000, we’ve helped millions bank better — with human service and digital speed.
+                    WesCredit is built on values: trust, transparency, and technology. Since 2000, we’ve helped millions bank better with human service and digital speed.
                   </p>
                   <div className="tp-footer-widget-social">
                     <a href="#">
