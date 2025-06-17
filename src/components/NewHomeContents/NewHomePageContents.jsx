@@ -1101,10 +1101,9 @@ const NewHomePageContents = () => {
                     </span>
                   </div>
                   <div className="tp-process-item-content-2">
-                    <h4 className="tp-process-title">Strategic Planning</h4>
+                    <h4 className="tp-process-title">Connect</h4>
                     <p>
-                      It is a long established fact that a reader will be
-                      distracted by the readable content of a page when looking
+                      Visit us online or in-branch. Our team listens, understands, and recommends what fits your needs.
                     </p>
                   </div>
                 </div>
@@ -1125,10 +1124,9 @@ const NewHomePageContents = () => {
                     </span>
                   </div>
                   <div className="tp-process-item-content-2">
-                    <h4 className="tp-process-title">Market Research</h4>
+                    <h4 className="tp-process-title">Customize</h4>
                     <p>
-                      It is a long established fact that a reader will be
-                      distracted by the readable content of a page when looking
+                      We tailor banking solutions to match your lifestyle, business, or financial goals.
                     </p>
                   </div>
                 </div>
@@ -1149,10 +1147,9 @@ const NewHomePageContents = () => {
                     </span>
                   </div>
                   <div className="tp-process-item-content-2">
-                    <h4 className="tp-process-title">Financial Advisory</h4>
+                    <h4 className="tp-process-title">Activate</h4>
                     <p>
-                      It is a long established fact that a reader will be
-                      distracted by the readable content of a page when looking
+                      We stay with you through every financial milestone, offering guidance, tools, and real-time help.From instant account setup to loan approval — we move fast, securely, and paperless.
                     </p>
                   </div>
                 </div>
@@ -1173,10 +1170,9 @@ const NewHomePageContents = () => {
                     </span>
                   </div>
                   <div className="tp-process-item-content-2">
-                    <h4 className="tp-process-title">Change Management</h4>
+                    <h4 className="tp-process-title">Support & Grow</h4>
                     <p>
-                      It is a long established fact that a reader will be
-                      distracted by the readable content of a page when looking
+                      We stay with you through every financial milestone, offering guidance, tools, and real-time help.
                     </p>
                   </div>
                 </div>
@@ -1262,9 +1258,9 @@ const NewHomePageContents = () => {
                 </div>
                 <div className="tp-team-info-2 text-center">
                   <h4 className="tp-team-info-title">
-                    <a href="#">Albert Flores</a>
+                    <a href="#">Liam H.</a>
                   </h4>
-                  <p>Designer</p>
+                  <p>Loan Advisor</p>
                 </div>
               </div>
             </div>
@@ -1300,9 +1296,9 @@ const NewHomePageContents = () => {
                 </div>
                 <div className="tp-team-info-2 text-center">
                   <h4 className="tp-team-info-title">
-                    <a href="#">Esther Howard</a>
+                    <a href="#">Elvis O.</a>
                   </h4>
-                  <p>Developer</p>
+                  <p>Branch Manager</p>
                 </div>
               </div>
             </div>
@@ -1338,9 +1334,9 @@ const NewHomePageContents = () => {
                 </div>
                 <div className="tp-team-info-2 text-center">
                   <h4 className="tp-team-info-title">
-                    <a href="#">Simmons Brook</a>
+                    <a href="#">Carlos M</a>
                   </h4>
-                  <p>Font end</p>
+                  <p>Business Account Consultant</p>
                 </div>
               </div>
             </div>
@@ -1391,15 +1387,13 @@ const NewHomePageContents = () => {
                         <div className="tp-testimonial-user d-flex align-items-center">
                           <div className="tp-testimonial-user-content">
                             <h3 className="tp-testimonial-title-2">
-                              Donald Hughes
+                               David R.
                             </h3>
                             <span className="tp-testimonial-user-content-description">
-                              Customer
+                             Café Owner
                             </span>
                             <p>
-                              Don't just take our word for it hear what our
-                              customers have to say about us! we have helped
-                              thousand people.
+                              As a small business owner, I finally feel heard by my bank.
                             </p>
                             <div className="tp-testimonial-quote">
                               <img
@@ -1424,15 +1418,13 @@ const NewHomePageContents = () => {
                         <div className="tp-testimonial-user d-flex align-items-center">
                           <div className="tp-testimonial-user-content">
                             <h3 className="tp-testimonial-title-2">
-                              Micle Miahuk
+                              Ayesha N
                             </h3>
                             <span className="tp-testimonial-user-content-description">
-                              Customer
+                              Teacher
                             </span>
                             <p>
-                              Don't just take our word for it hear what our
-                              customers have to say about us! we have helped
-                              thousand people.
+                              The fastest loan process I’ve ever experienced. Zero stress.
                             </p>
                             <div className="tp-testimonial-quote">
                               <img
@@ -1531,11 +1523,11 @@ const NewHomePageContents = () => {
                     <span
                       className="purecounter"
                       data-purecounter-duration={3}
-                      data-purecounter-end={90}
+                      data-purecounter-end={400}
                     />
                     +
                   </h4>
-                  <p>Setishfied Client</p>
+                  <p>Satisfied Client</p>
                 </div>
               </div>
             </div>
@@ -1805,8 +1797,7 @@ const NewHomePageContents = () => {
               <div className="tp-cta-wrapper-2 text-center">
                 <h3 className="tp-cta-title-2">WesCredit</h3>
                 <p>
-                  Welcome to WesCredit, where your money meets innovation.  <br /> readable content of a page when looking at its
-                  layout
+                  Experience secure, smart, and simple banking <br />  designed around you.
                 </p>
                 <span>
                   Email:{" "}
