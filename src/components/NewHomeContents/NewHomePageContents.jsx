@@ -21,7 +21,7 @@ const NewHomePageContents = () => {
                     data-wow-duration="1s"
                     data-wow-delay=".3s"
                   >
-                    happy
+                    Better Way To Bank
                   </span>
                   <h2
                     className="tp-hero-title-2 wow fadeInUp"
@@ -35,10 +35,8 @@ const NewHomePageContents = () => {
                     data-wow-duration="1s"
                     data-wow-delay=".5s"
                   >
-                    And In Order To Make A Business, Brand Advertising And
-                    Marketing Plays <br /> An Important Role. Similarly, In
-                    Making Cultivation Business A Brand, Good <br /> Slogans Are
-                    Necessary.
+                    WesCredit  has been a trusted financial partner for individuals and businesses for over 25 years.<br /> We are committed to offering transparent, innovative, and customer-first banking solutions. <br /> 
+                   
                   </p>
                 </div>
                 <div
@@ -1810,8 +1808,7 @@ const NewHomePageContents = () => {
               <div className="tp-cta-wrapper-2 text-center">
                 <h3 className="tp-cta-title-2">WesCredit</h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the <br /> readable content of a page when looking at its
+                  Welcome to WesCredit, where your money meets innovation.  <br /> readable content of a page when looking at its
                   layout
                 </p>
                 <span>
