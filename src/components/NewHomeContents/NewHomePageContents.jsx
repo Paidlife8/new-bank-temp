@@ -233,9 +233,9 @@ const NewHomePageContents = () => {
                     </div>
                     <div className="tp-about-item-2-content">
                       <h5 className="tp-about-item-2-title">
-                        Digital marketing
+                        Savings Accounts
                       </h5>
-                      <p>Payment solutions enable to stand to accept</p>
+                      <p>Build your future with flexible savings options.</p>
                     </div>
                   </div>
                   <div className="tp-about-item-2-inner d-flex">
@@ -249,9 +249,9 @@ const NewHomePageContents = () => {
                     </div>
                     <div className="tp-about-item-2-content">
                       <h5 className="tp-about-item-2-title">
-                        Digital marketing
+                        Credit & Debit Cards
                       </h5>
-                      <p>Payment solutions enable to stand to accept</p>
+                      <p>Convenient spending with rewards and protection.</p>
                     </div>
                   </div>
                 </div>
@@ -266,8 +266,8 @@ const NewHomePageContents = () => {
                       <img src="/new-assets/img/about/home-2/user.jpg" alt />
                     </div>
                     <div className="tp-about-user-content">
-                      <p>Web Designer</p>
-                      <h4>Leslie Alexander</h4>
+                      <p>Chief Customer Officer</p>
+                      <h4>Daniel Kwame</h4>
                     </div>
                   </div>
                 </div>
