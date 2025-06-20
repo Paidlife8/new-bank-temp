@@ -459,7 +459,7 @@ const NewAboutPageContents = () => {
                       <p>
                         Switching to wescredit was the best financial decision I've made. The mobile app is easy to use, and their customer service is outstanding. I finally feel in control of my finances{" "}
                       </p>
-                      <h4 className="tp-testimonial-item-title">Sarah Martinez</h4>
+                      <h4 className="tp-testimonial-item-title">Martinez</h4>
                       <span>Small Business Owner</span>
                       <div className="tp-testimonial-item-quot">
                         <img src="/new-assets/img/testimonial/quot.png" alt />
