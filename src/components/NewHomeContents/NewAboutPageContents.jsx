@@ -79,14 +79,11 @@ const NewAboutPageContents = () => {
                 <div className="tp-about-title-wrapper">
                   <span className="tp-section-title-pre">ABOUT US</span>
                   <h3 className="tp-section-title">
-                    Solutions that make a difference
+                    Empowering Your Financial Future
                   </h3>
                 </div>
                 <p>
-                  Payment solutions enable businesses to accept payments Payment
-                  stions enable businesses to accept payments from ctly
-                  customers ctly securely. stions enable businesses to accept
-                  payments from ctly customers ctly securely.
+                  At WesCredit, we believe banking should be simple, secure, and centered around you. Since our founding, we’ve been committed to redefining the banking experience—offering innovative financial solutions, personalized support, and the confidence you need to take control of your financial life.
                 </p>
                 <div className="tp-about-wrapper-list">
                   <ul>
@@ -94,25 +91,25 @@ const NewAboutPageContents = () => {
                       <span>
                         <i className="fa-regular fa-circle" />
                       </span>{" "}
-                      Mistakes To Avoid to dum Auam.
+                      Over 25 years of Trusted Service
                     </li>
                     <li>
                       <span>
                         <i className="fa-regular fa-circle" />
                       </span>{" "}
-                      Avoid to the dumy mistakes
+                       Serving the United States and Worldwide
                     </li>
                     <li>
                       <span>
                         <i className="fa-regular fa-circle" />
                       </span>{" "}
-                      Your Startup industry stan
+                      Thousands of Personal and Business Clients
                     </li>
                     <li>
                       <span>
                         <i className="fa-regular fa-circle" />
                       </span>{" "}
-                      Our Startup industry Here
+                      Experts in Retail, Commercial, and Digital Banking
                     </li>
                   </ul>
                 </div>
@@ -146,9 +143,7 @@ const NewAboutPageContents = () => {
                     You can contact <br /> us for any question{" "}
                   </h3>
                   <p>
-                    Fact that a reader will be distrol acted bioiiy desig
-                    the.ished fact that a reader will be distrol acted bioiiy
-                    bioiiy desig the.ished fact that a reader ished fact that{" "}
+                    We’re here for you—whether you have a question, need help with your account, or want to talk to a financial advisor.{" "}
                   </p>
                 </div>
                 <div className="tp-faq-counter-wrapper d-flex">
@@ -208,7 +203,7 @@ const NewAboutPageContents = () => {
                         aria-expanded="true"
                         aria-controls="collapseOne"
                       >
-                        What is business consulting?
+                        How do I open a bank account?
                       </button>
                     </h2>
                     <div
@@ -219,10 +214,7 @@ const NewAboutPageContents = () => {
                     >
                       <div className="accordion-body">
                         <p>
-                          Business consulting is a service provided by
-                          professionals who offer expert advice and guidance to
-                          organizations seeking to improve their business
-                          processes, strategies, and operations
+                          You can open an account online through our secure portal or visit any of our branches with a valid ID and proof of address. Most accounts are opened within minutes.
                         </p>
                       </div>
                     </div>
@@ -237,8 +229,7 @@ const NewAboutPageContents = () => {
                         aria-expanded="false"
                         aria-controls="collapseTwo"
                       >
-                        What types of businesses typically use consulting
-                        services?
+                         Is online banking secure?
                       </button>
                     </h2>
                     <div
@@ -249,10 +240,7 @@ const NewAboutPageContents = () => {
                     >
                       <div className="accordion-body">
                         <p>
-                          Business consulting is a service provided by
-                          professionals who offer expert advice and guidance to
-                          organizations seeking to improve their business
-                          processes, strategies, and operations
+                          Absolutely. We use advanced encryption, multi-factor authentication, and real-time fraud monitoring to ensure your data and transactions are safe.
                         </p>
                       </div>
                     </div>
@@ -267,8 +255,7 @@ const NewAboutPageContents = () => {
                         aria-expanded="false"
                         aria-controls="collapseThree"
                       >
-                        What are the benefits of using a business consulting
-                        service?
+                        What should I do if I lose my card?
                       </button>
                     </h2>
                     <div
@@ -279,10 +266,7 @@ const NewAboutPageContents = () => {
                     >
                       <div className="accordion-body">
                         <p>
-                          Business consulting is a service provided by
-                          professionals who offer expert advice and guidance to
-                          organizations seeking to improve their business
-                          processes, strategies, and operations
+                          You can block your card instantly using our mobile app or call our 24/7 helpline. We’ll help you replace it quickly.
                         </p>
                       </div>
                     </div>
@@ -297,7 +281,7 @@ const NewAboutPageContents = () => {
                         aria-expanded="false"
                         aria-controls="collapseFour"
                       >
-                        How much do consulting services cost?
+                        Can I apply for a loan online?
                       </button>
                     </h2>
                     <div
@@ -308,10 +292,7 @@ const NewAboutPageContents = () => {
                     >
                       <div className="accordion-body">
                         <p>
-                          Business consulting is a service provided by
-                          professionals who offer expert advice and guidance to
-                          organizations seeking to improve their business
-                          processes, strategies, and operations
+                         Yes. Our online loan application process is simple, fast, and secure. You can track your application status in real time.
                         </p>
                       </div>
                     </div>
@@ -346,12 +327,10 @@ const NewAboutPageContents = () => {
                   </div>
                   <div className="tp-process-item-content">
                     <h4 className="tp-process-item-title">
-                      Best emplementation
+                      Seamless Onboarding
                     </h4>
                     <p>
-                      Ished fact that a reader will be distrol acted bioiiy
-                      desig the.ished fact that a reader will be distrol acted
-                      bioiiy bioiiy desig the.ished fact that a reader.
+                      With a few easy steps, you can open an account, apply for a loan, or set up mobile banking—either online or in-branch. Our customer service team is always ready to guide you.
                     </p>
                   </div>
                 </div>
@@ -363,12 +342,10 @@ const NewAboutPageContents = () => {
                   </div>
                   <div className="tp-process-item-content">
                     <h4 className="tp-process-item-title">
-                      Design make for you
+                      Secure Access & Smart Tools
                     </h4>
                     <p>
-                      Ished fact that a reader will be distrol acted bioiiy
-                      desig the.ished fact that a reader will be distrol acted
-                      bioiiy bioiiy desig the.ished fact that a reader.
+                      Once you're on board, you'll have 24/7 access to your accounts through our secure digital platforms. Manage your money, pay bills, transfer funds, or talk to a financial advisor—all from your phone or computer.
                     </p>
                   </div>
                 </div>
@@ -380,12 +357,10 @@ const NewAboutPageContents = () => {
                   </div>
                   <div className="tp-process-item-content">
                     <h4 className="tp-process-item-title">
-                      Finished the process
+                      Ongoing Support & Growth
                     </h4>
                     <p>
-                      Ished fact that a reader will be distrol acted bioiiy
-                      desig the.ished fact that a reader will be distrol acted
-                      bioiiy bioiiy desig the.ished fact that a reader.
+                      Banking doesn’t end at the transaction. We provide regular financial health checkups, credit score tips, alerts, and opportunities to grow your savings or expand your business.
                     </p>
                   </div>
                 </div>
@@ -482,12 +457,10 @@ const NewAboutPageContents = () => {
                         </span>
                       </div>
                       <p>
-                        Don't just take our word for it hear what our customers
-                        have to say about us! we have helped thousand people
-                        Don't just take our{" "}
+                        Switching to wescredit was the best financial decision I've made. The mobile app is easy to use, and their customer service is outstanding. I finally feel in control of my finances{" "}
                       </p>
-                      <h4 className="tp-testimonial-item-title">Hardli sefa</h4>
-                      <span>Customer</span>
+                      <h4 className="tp-testimonial-item-title">Sarah Martinez</h4>
+                      <span>Small Business Owner</span>
                       <div className="tp-testimonial-item-quot">
                         <img src="/new-assets/img/testimonial/quot.png" alt />
                       </div>
@@ -518,14 +491,12 @@ const NewAboutPageContents = () => {
                         </span>
                       </div>
                       <p>
-                        Don't just take our word for it hear what our customers
-                        have to say about us! we have helped thousand people
-                        Don't just take our{" "}
+                        I opened a savings account and was amazed at how seamless the process was. They really take the time to understand your goals. It’s not just banking—it’s a partnership.{" "}
                       </p>
                       <h4 className="tp-testimonial-item-title">
-                        Sahanaz sakil
+                        Richard
                       </h4>
-                      <span>Customer</span>
+                      <span>IT Consultant</span>
                       <div className="tp-testimonial-item-quot">
                         <img src="/new-assets/img/testimonial/quot.png" alt />
                       </div>
@@ -554,7 +525,7 @@ const NewAboutPageContents = () => {
               <div className="tp-team-title-wrapper text-center mb-30">
                 <span className="tp-section-title-pre">our team </span>
                 <h3 className="tp-section-title">
-                  Leading the way in business <br /> transformation
+                  Dedicated Professionals, <br />Focused on You
                 </h3>
               </div>
             </div>
@@ -587,9 +558,9 @@ const NewAboutPageContents = () => {
                 </div>
                 <div className="tp-team-info text-center">
                   <h4 className="tp-team-info-title">
-                    <a href="team-details.html">Albert Flores</a>
+                    <a href="team-details.html">Aisha Rahman</a>
                   </h4>
-                  <p>Designer</p>
+                  <p>Head of Retail Banking</p>
                 </div>
               </div>
             </div>
@@ -620,9 +591,9 @@ const NewAboutPageContents = () => {
                 </div>
                 <div className="tp-team-info text-center">
                   <h4 className="tp-team-info-title">
-                    <a href="team-details.html">Kathryn Murphy</a>
+                    <a href="team-details.html">Carlos Rivera</a>
                   </h4>
-                  <p>Designer</p>
+                  <p>Chief Financial Officer CFO</p>
                 </div>
               </div>
             </div>
@@ -653,9 +624,9 @@ const NewAboutPageContents = () => {
                 </div>
                 <div className="tp-team-info text-center">
                   <h4 className="tp-team-info-title">
-                    <a href="team-details.html">Marvin McKinney</a>
+                    <a href="team-details.html">Daniel Kim</a>
                   </h4>
-                  <p>Designer</p>
+                  <p>Chief Technology Officer CTO</p>
                 </div>
               </div>
             </div>
@@ -688,7 +659,7 @@ const NewAboutPageContents = () => {
                   <h4 className="tp-team-info-title">
                     <a href="team-details.html">Leslie Alexander</a>
                   </h4>
-                  <p>Designer</p>
+                  <p>Sales Rep</p>
                 </div>
               </div>
             </div>
