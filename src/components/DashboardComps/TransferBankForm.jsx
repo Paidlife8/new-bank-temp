@@ -86,7 +86,7 @@ const TransferBankForm = ({ handleClick }) => {
           amount: normalAmount,
           remark: transferData.remark,
           accountName: transferData.accountName,
-          bankName: "First Credit Choice",
+          bankName: "WesCredit",
         };
 
         console.log(transferDetails, "transfer details");

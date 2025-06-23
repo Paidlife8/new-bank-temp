@@ -43,7 +43,7 @@ const Banner = () => {
                     <h1 className="title">Pay Anyone, Anywhere</h1>
                     <p className="xlr">
                       Quickly and easily send, receive and request money online
-                      with First Credit Choice. Get a customised solution to fit
+                      with Wescredit. Get a customised solution to fit
                       your business needs.
                     </p>
                   </div>

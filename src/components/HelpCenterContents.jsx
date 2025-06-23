@@ -128,7 +128,7 @@ const HelpCenterContents = () => {
                               />
                             </div>
                             <a href="help-center-category.html">
-                              <h5>First Credit Choice Cards</h5>
+                              <h5>Wes Credit Cards</h5>
                             </a>
                           </div>
                         </div>
@@ -189,7 +189,7 @@ const HelpCenterContents = () => {
                               />
                             </div>
                             <a href="help-center-category.html">
-                              <h5>About First Credit Choice</h5>
+                              <h5>About Wescredit</h5>
                             </a>
                           </div>
                         </div>

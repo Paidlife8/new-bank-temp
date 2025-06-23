@@ -494,7 +494,7 @@ const CorporateCardContents = () => {
                 <div className="col-xl-6 text-center">
                   <div className="section-text">
                     <h2 className="title">
-                      Join First Credit Choice Business.
+                      Join WesCredit Business.
                     </h2>
                     <p>
                       No-fuss company cards for team members, instant virtual
