@@ -32,7 +32,7 @@ const TransferBankForm = ({ handleClick }) => {
     // setAmount(value);
     const numericValue = parseFloat(value.replace(/,/g, ""));
 
-    if (!isNaN(numericValue) && numericValue <= 100000) {
+    if (!isNaN(numericValue) && numericValue <= 100000000) {
       setAmount(value);
     } else if (value === "") {
       setAmount("");
