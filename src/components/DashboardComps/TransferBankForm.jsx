@@ -160,7 +160,7 @@ const TransferBankForm = ({ handleClick }) => {
                     {errors.accountName && (
                       <p className="text-danger mb-4 ">{errors.accountName}</p>
                     )}
-                    <span className="mdr">Amount (max-limit is $100,000)</span>
+                    <span className="mdr">Amount (max-limit is $100,000,000)</span>
                     <div className="input-area">
                       <input
                         value={amount}
