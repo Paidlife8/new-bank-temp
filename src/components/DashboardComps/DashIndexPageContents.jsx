@@ -202,7 +202,7 @@ const DashIndexPageContents = () => {
                                     )}
                                   </td>
                                   <td>
-                                    <p>-${formatAmount(`${item?.amount}`)}</p>
+                                    <p>Debit-${formatAmount(`${item?.amount}`)}</p>
                                     {profile?._id === item?.receiverId ? (
                                       <p className="completed">Received</p>
                                     ) : (
